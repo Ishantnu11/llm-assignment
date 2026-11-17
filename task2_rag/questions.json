@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "question": "WRITE YOUR OWN QUESTION HERE",
+    "page": 0,
+    "source_passage": "Paste the full passage (2-4 sentences) from the PDF that answers it.",
+    "answer_span": "a short exact phrase (5-12 words) copied from that passage"
+  }
+]

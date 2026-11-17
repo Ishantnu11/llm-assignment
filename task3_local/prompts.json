@@ -1,0 +1,12 @@
+[
+  "Explain what a hash table is to a first-year student in 3 sentences.",
+  "Write a Python function that checks whether a string is a palindrome, ignoring spaces and case.",
+  "A train leaves at 3:45 PM and the journey takes 2 hours 50 minutes. What time does it arrive? Show your steps.",
+  "Summarise the causes of the 1929 stock market crash in 4 bullet points.",
+  "Translate to Hindi: 'The meeting has been moved to Friday morning.'",
+  "Return only JSON: extract name, city and age from 'Riya, 24, recently moved from Pune to Bengaluru.'",
+  "If all bloops are razzies and all razzies are lazzies, are all bloops lazzies? Explain briefly.",
+  "Write a polite 3-line email declining a meeting invite because of a clash.",
+  "What is 17 * 23 + 144 / 12? Show the working.",
+  "Give three pros and three cons of remote work, one line each."
+]

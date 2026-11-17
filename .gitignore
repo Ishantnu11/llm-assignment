@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+# model weights / adapters are large — don't commit
+task1_lora/outputs/
+*.safetensors
+*.bin
+*.gguf
+# FAISS indexes are rebuildable
+task2_rag/index/
+task2_rag/data/*.pdf
+.env

@@ -1,0 +1,18 @@
+# Task 1 (GPU)
+torch
+transformers>=4.44
+peft>=0.12
+trl>=0.10
+bitsandbytes>=0.43
+datasets
+accelerate
+
+# Task 2
+sentence-transformers
+faiss-cpu
+numpy
+pypdf
+requests
+
+# Task 3
+psutil
